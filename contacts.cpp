@@ -343,5 +343,4 @@ cout<<"ERROR 101";
 void main()
 {
 c.menu();
-//c.encrypt("@");
 }
